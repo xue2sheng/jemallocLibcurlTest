@@ -1,2 +1,2 @@
 # jemallocLibcurlTest
-Dummy performance test on jemalloc / libcur 
+Dummy performance test on jemalloc / libcurl
